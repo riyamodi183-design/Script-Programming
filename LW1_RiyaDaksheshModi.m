@@ -1,6 +1,6 @@
 %Riya Dakshesh Modi, EDIfu25/1, 11/09/2026
 
-% Paprastas skriptas
+% Preparing the script
 
 x = 1:32;
 y = x.^2;
